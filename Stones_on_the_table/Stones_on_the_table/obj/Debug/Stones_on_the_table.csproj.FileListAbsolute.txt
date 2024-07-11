@@ -1,0 +1,7 @@
+C:\Users\Mikey\source\repos\Stones_on_the_table\Stones_on_the_table\bin\Debug\Stones_on_the_table.exe.config
+C:\Users\Mikey\source\repos\Stones_on_the_table\Stones_on_the_table\bin\Debug\Stones_on_the_table.exe
+C:\Users\Mikey\source\repos\Stones_on_the_table\Stones_on_the_table\bin\Debug\Stones_on_the_table.pdb
+C:\Users\Mikey\source\repos\Stones_on_the_table\Stones_on_the_table\obj\Debug\Stones_on_the_table.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\Stones_on_the_table\Stones_on_the_table\obj\Debug\Stones_on_the_table.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\Stones_on_the_table\Stones_on_the_table\obj\Debug\Stones_on_the_table.exe
+C:\Users\Mikey\source\repos\Stones_on_the_table\Stones_on_the_table\obj\Debug\Stones_on_the_table.pdb

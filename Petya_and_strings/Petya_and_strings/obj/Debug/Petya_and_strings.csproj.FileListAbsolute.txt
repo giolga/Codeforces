@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Petya_and_strings\Petya_and_strings\bin\Debug\Petya_and_strings.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Petya_and_strings\Petya_and_strings\bin\Debug\Petya_and_strings.exe
+C:\Users\Mikey\Desktop\Codeforces\Petya_and_strings\Petya_and_strings\bin\Debug\Petya_and_strings.pdb
+C:\Users\Mikey\Desktop\Codeforces\Petya_and_strings\Petya_and_strings\obj\Debug\Petya_and_strings.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Petya_and_strings\Petya_and_strings\obj\Debug\Petya_and_strings.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Petya_and_strings\Petya_and_strings\obj\Debug\Petya_and_strings.exe
+C:\Users\Mikey\Desktop\Codeforces\Petya_and_strings\Petya_and_strings\obj\Debug\Petya_and_strings.pdb
