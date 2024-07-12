@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikey\\Desktop\\Codeforces\\Wrong subtraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F277270-4462-413D-A0A2-30255526FCA5}|Wrong subtraction\\Wrong subtraction.csproj|c:\\users\\mikey\\desktop\\codeforces\\wrong subtraction\\wrong subtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F277270-4462-413D-A0A2-30255526FCA5}|Wrong subtraction\\Wrong subtraction.csproj|solutionrelative:wrong subtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Codeforces\\Wrong subtraction\\Wrong subtraction\\Program.cs",
+              "RelativeDocumentMoniker": "Wrong subtraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Codeforces\\Wrong subtraction\\Wrong subtraction\\Program.cs",
+              "RelativeToolTip": "Wrong subtraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:38:53.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

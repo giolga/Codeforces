@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Wrong subtraction\Wrong subtraction\bin\Debug\Wrong subtraction.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Wrong subtraction\Wrong subtraction\bin\Debug\Wrong subtraction.exe
+C:\Users\Mikey\Desktop\Codeforces\Wrong subtraction\Wrong subtraction\bin\Debug\Wrong subtraction.pdb
+C:\Users\Mikey\Desktop\Codeforces\Wrong subtraction\Wrong subtraction\obj\Debug\Wrong subtraction.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Wrong subtraction\Wrong subtraction\obj\Debug\Wrong subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Wrong subtraction\Wrong subtraction\obj\Debug\Wrong subtraction.exe
+C:\Users\Mikey\Desktop\Codeforces\Wrong subtraction\Wrong subtraction\obj\Debug\Wrong subtraction.pdb
