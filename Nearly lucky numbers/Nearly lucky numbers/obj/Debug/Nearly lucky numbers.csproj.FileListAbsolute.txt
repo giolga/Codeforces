@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Nearly lucky numbers\Nearly lucky numbers\bin\Debug\Nearly lucky numbers.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Nearly lucky numbers\Nearly lucky numbers\bin\Debug\Nearly lucky numbers.exe
+C:\Users\Mikey\Desktop\Codeforces\Nearly lucky numbers\Nearly lucky numbers\bin\Debug\Nearly lucky numbers.pdb
+C:\Users\Mikey\Desktop\Codeforces\Nearly lucky numbers\Nearly lucky numbers\obj\Debug\Nearly lucky numbers.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Nearly lucky numbers\Nearly lucky numbers\obj\Debug\Nearly lucky numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Nearly lucky numbers\Nearly lucky numbers\obj\Debug\Nearly lucky numbers.exe
+C:\Users\Mikey\Desktop\Codeforces\Nearly lucky numbers\Nearly lucky numbers\obj\Debug\Nearly lucky numbers.pdb
