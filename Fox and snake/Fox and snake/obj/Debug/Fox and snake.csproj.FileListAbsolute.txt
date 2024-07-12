@@ -1,0 +1,7 @@
+C:\Users\Mikey\source\repos\Fox and snake\Fox and snake\bin\Debug\Fox and snake.exe.config
+C:\Users\Mikey\source\repos\Fox and snake\Fox and snake\bin\Debug\Fox and snake.exe
+C:\Users\Mikey\source\repos\Fox and snake\Fox and snake\bin\Debug\Fox and snake.pdb
+C:\Users\Mikey\source\repos\Fox and snake\Fox and snake\obj\Debug\Fox and snake.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\Fox and snake\Fox and snake\obj\Debug\Fox and snake.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\Fox and snake\Fox and snake\obj\Debug\Fox and snake.exe
+C:\Users\Mikey\source\repos\Fox and snake\Fox and snake\obj\Debug\Fox and snake.pdb
