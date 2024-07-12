@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Divisibility Problem\Divisibility Problem\bin\Debug\Divisibility Problem.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Divisibility Problem\Divisibility Problem\bin\Debug\Divisibility Problem.exe
+C:\Users\Mikey\Desktop\Codeforces\Divisibility Problem\Divisibility Problem\bin\Debug\Divisibility Problem.pdb
+C:\Users\Mikey\Desktop\Codeforces\Divisibility Problem\Divisibility Problem\obj\Debug\Divisibility Problem.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Divisibility Problem\Divisibility Problem\obj\Debug\Divisibility Problem.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Divisibility Problem\Divisibility Problem\obj\Debug\Divisibility Problem.exe
+C:\Users\Mikey\Desktop\Codeforces\Divisibility Problem\Divisibility Problem\obj\Debug\Divisibility Problem.pdb
