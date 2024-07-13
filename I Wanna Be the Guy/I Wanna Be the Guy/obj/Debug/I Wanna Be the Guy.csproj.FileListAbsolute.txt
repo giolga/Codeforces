@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\I Wanna Be the Guy\I Wanna Be the Guy\bin\Debug\I Wanna Be the Guy.exe.config
+C:\Users\Mikey\Desktop\Codeforces\I Wanna Be the Guy\I Wanna Be the Guy\bin\Debug\I Wanna Be the Guy.exe
+C:\Users\Mikey\Desktop\Codeforces\I Wanna Be the Guy\I Wanna Be the Guy\bin\Debug\I Wanna Be the Guy.pdb
+C:\Users\Mikey\Desktop\Codeforces\I Wanna Be the Guy\I Wanna Be the Guy\obj\Debug\I Wanna Be the Guy.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\I Wanna Be the Guy\I Wanna Be the Guy\obj\Debug\I Wanna Be the Guy.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\I Wanna Be the Guy\I Wanna Be the Guy\obj\Debug\I Wanna Be the Guy.exe
+C:\Users\Mikey\Desktop\Codeforces\I Wanna Be the Guy\I Wanna Be the Guy\obj\Debug\I Wanna Be the Guy.pdb

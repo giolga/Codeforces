@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikey\\Desktop\\Codeforces\\I Wanna Be the Guy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4889A3-CBF3-4851-A96C-5CFBBE9590DD}|I Wanna Be the Guy\\I Wanna Be the Guy.csproj|c:\\users\\mikey\\desktop\\codeforces\\i wanna be the guy\\i wanna be the guy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4889A3-CBF3-4851-A96C-5CFBBE9590DD}|I Wanna Be the Guy\\I Wanna Be the Guy.csproj|solutionrelative:i wanna be the guy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Codeforces\\I Wanna Be the Guy\\I Wanna Be the Guy\\Program.cs",
+              "RelativeDocumentMoniker": "I Wanna Be the Guy\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Codeforces\\I Wanna Be the Guy\\I Wanna Be the Guy\\Program.cs",
+              "RelativeToolTip": "I Wanna Be the Guy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:48:31.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

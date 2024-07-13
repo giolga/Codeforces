@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Hulk\Hulk\bin\Debug\Hulk.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Hulk\Hulk\bin\Debug\Hulk.exe
+C:\Users\Mikey\Desktop\Codeforces\Hulk\Hulk\bin\Debug\Hulk.pdb
+C:\Users\Mikey\Desktop\Codeforces\Hulk\Hulk\obj\Debug\Hulk.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Hulk\Hulk\obj\Debug\Hulk.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Hulk\Hulk\obj\Debug\Hulk.exe
+C:\Users\Mikey\Desktop\Codeforces\Hulk\Hulk\obj\Debug\Hulk.pdb
