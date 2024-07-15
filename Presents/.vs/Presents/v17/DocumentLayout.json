@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikey\\Desktop\\Codeforces\\Presents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A77441F-05AC-4279-B36C-D0A88454A530}|Presents\\Presents.csproj|c:\\users\\mikey\\desktop\\codeforces\\presents\\presents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A77441F-05AC-4279-B36C-D0A88454A530}|Presents\\Presents.csproj|solutionrelative:presents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Codeforces\\Presents\\Presents\\Program.cs",
+              "RelativeDocumentMoniker": "Presents\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Codeforces\\Presents\\Presents\\Program.cs",
+              "RelativeToolTip": "Presents\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:33:11.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

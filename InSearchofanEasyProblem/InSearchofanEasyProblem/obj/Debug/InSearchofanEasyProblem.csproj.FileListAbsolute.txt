@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\InSearchofanEasyProblem\InSearchofanEasyProblem\bin\Debug\InSearchofanEasyProblem.exe.config
+C:\Users\Mikey\Desktop\Codeforces\InSearchofanEasyProblem\InSearchofanEasyProblem\bin\Debug\InSearchofanEasyProblem.exe
+C:\Users\Mikey\Desktop\Codeforces\InSearchofanEasyProblem\InSearchofanEasyProblem\bin\Debug\InSearchofanEasyProblem.pdb
+C:\Users\Mikey\Desktop\Codeforces\InSearchofanEasyProblem\InSearchofanEasyProblem\obj\Debug\InSearchofanEasyProblem.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\InSearchofanEasyProblem\InSearchofanEasyProblem\obj\Debug\InSearchofanEasyProblem.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\InSearchofanEasyProblem\InSearchofanEasyProblem\obj\Debug\InSearchofanEasyProblem.exe
+C:\Users\Mikey\Desktop\Codeforces\InSearchofanEasyProblem\InSearchofanEasyProblem\obj\Debug\InSearchofanEasyProblem.pdb

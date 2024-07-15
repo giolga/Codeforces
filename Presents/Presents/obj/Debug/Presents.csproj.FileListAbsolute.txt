@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Presents\Presents\bin\Debug\Presents.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Presents\Presents\bin\Debug\Presents.exe
+C:\Users\Mikey\Desktop\Codeforces\Presents\Presents\bin\Debug\Presents.pdb
+C:\Users\Mikey\Desktop\Codeforces\Presents\Presents\obj\Debug\Presents.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Presents\Presents\obj\Debug\Presents.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Presents\Presents\obj\Debug\Presents.exe
+C:\Users\Mikey\Desktop\Codeforces\Presents\Presents\obj\Debug\Presents.pdb
