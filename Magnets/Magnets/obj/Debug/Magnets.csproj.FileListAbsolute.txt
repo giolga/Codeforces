@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Magnets\Magnets\bin\Debug\Magnets.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Magnets\Magnets\bin\Debug\Magnets.exe
+C:\Users\Mikey\Desktop\Codeforces\Magnets\Magnets\bin\Debug\Magnets.pdb
+C:\Users\Mikey\Desktop\Codeforces\Magnets\Magnets\obj\Debug\Magnets.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Magnets\Magnets\obj\Debug\Magnets.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Magnets\Magnets\obj\Debug\Magnets.exe
+C:\Users\Mikey\Desktop\Codeforces\Magnets\Magnets\obj\Debug\Magnets.pdb
