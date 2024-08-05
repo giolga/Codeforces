@@ -5,3 +5,10 @@ C:\Users\Mikey\Desktop\Codeforces\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csproj.Assem
 C:\Users\Mikey\Desktop\Codeforces\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csproj.CoreCompileInputs.cache
 C:\Users\Mikey\Desktop\Codeforces\MaxHeap\MaxHeap\obj\Debug\MaxHeap.exe
 C:\Users\Mikey\Desktop\Codeforces\MaxHeap\MaxHeap\obj\Debug\MaxHeap.pdb
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\MaxHeap\MaxHeap\bin\Debug\MaxHeap.exe.config
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\MaxHeap\MaxHeap\bin\Debug\MaxHeap.exe
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\MaxHeap\MaxHeap\bin\Debug\MaxHeap.pdb
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\MaxHeap\MaxHeap\obj\Debug\MaxHeap.exe
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\MaxHeap\MaxHeap\obj\Debug\MaxHeap.pdb
