@@ -18,8 +18,8 @@ namespace MaxHeap
             while (j <= n)
             {
                 if (j < n && arr[j + 1] > arr[j]) j++;
-                if (temp >= arr[j]) break;
-                else if (temp < arr[j])
+                if (temp > arr[j]) break;
+                else if (temp <= arr[j])
                 {
                     arr[j / 2] = arr[j];
                     j *= 2;
@@ -43,8 +43,8 @@ namespace MaxHeap
             while (j <= n)
             {
                 if (j < n && arr[j + 1] < arr[j]) j++;
-                if (temp <= arr[j]) break;
-                else if (temp > arr[j])
+                if (temp < arr[j]) break;
+                else if (temp >= arr[j])
                 {
                     arr[j / 2] = arr[j];
                     j *= 2;

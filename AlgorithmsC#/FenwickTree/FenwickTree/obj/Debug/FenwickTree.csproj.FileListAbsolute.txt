@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\Codeforces\FenwickTree\FenwickTree\bin\Debug\FenwickTree.exe.config
+C:\Users\GioLGA\Desktop\Codeforces\FenwickTree\FenwickTree\bin\Debug\FenwickTree.exe
+C:\Users\GioLGA\Desktop\Codeforces\FenwickTree\FenwickTree\bin\Debug\FenwickTree.pdb
+C:\Users\GioLGA\Desktop\Codeforces\FenwickTree\FenwickTree\obj\Debug\FenwickTree.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\Codeforces\FenwickTree\FenwickTree\obj\Debug\FenwickTree.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\Codeforces\FenwickTree\FenwickTree\obj\Debug\FenwickTree.exe
+C:\Users\GioLGA\Desktop\Codeforces\FenwickTree\FenwickTree\obj\Debug\FenwickTree.pdb
