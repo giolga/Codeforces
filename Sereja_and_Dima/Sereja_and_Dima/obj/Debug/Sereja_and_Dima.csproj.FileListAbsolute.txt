@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\Sereja_and_Dima\Sereja_and_Dima\bin\Debug\Sereja_and_Dima.exe.config
+C:\Users\Mikey\Desktop\Codeforces\Sereja_and_Dima\Sereja_and_Dima\bin\Debug\Sereja_and_Dima.exe
+C:\Users\Mikey\Desktop\Codeforces\Sereja_and_Dima\Sereja_and_Dima\bin\Debug\Sereja_and_Dima.pdb
+C:\Users\Mikey\Desktop\Codeforces\Sereja_and_Dima\Sereja_and_Dima\obj\Debug\Sereja_and_Dima.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\Sereja_and_Dima\Sereja_and_Dima\obj\Debug\Sereja_and_Dima.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\Sereja_and_Dima\Sereja_and_Dima\obj\Debug\Sereja_and_Dima.exe
+C:\Users\Mikey\Desktop\Codeforces\Sereja_and_Dima\Sereja_and_Dima\obj\Debug\Sereja_and_Dima.pdb
