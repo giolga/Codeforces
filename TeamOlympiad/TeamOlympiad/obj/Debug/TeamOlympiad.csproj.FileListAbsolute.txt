@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\TeamOlympiad\TeamOlympiad\bin\Debug\TeamOlympiad.exe.config
+C:\Users\Mikey\Desktop\Codeforces\TeamOlympiad\TeamOlympiad\bin\Debug\TeamOlympiad.exe
+C:\Users\Mikey\Desktop\Codeforces\TeamOlympiad\TeamOlympiad\bin\Debug\TeamOlympiad.pdb
+C:\Users\Mikey\Desktop\Codeforces\TeamOlympiad\TeamOlympiad\obj\Debug\TeamOlympiad.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\TeamOlympiad\TeamOlympiad\obj\Debug\TeamOlympiad.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\TeamOlympiad\TeamOlympiad\obj\Debug\TeamOlympiad.exe
+C:\Users\Mikey\Desktop\Codeforces\TeamOlympiad\TeamOlympiad\obj\Debug\TeamOlympiad.pdb

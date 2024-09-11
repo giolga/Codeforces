@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikey\\Desktop\\Codeforces\\TeamOlympiad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7945E9F-045A-4F1A-8FE5-B36A7281EA11}|TeamOlympiad\\TeamOlympiad.csproj|c:\\users\\mikey\\desktop\\codeforces\\teamolympiad\\teamolympiad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7945E9F-045A-4F1A-8FE5-B36A7281EA11}|TeamOlympiad\\TeamOlympiad.csproj|solutionrelative:teamolympiad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 873,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\Desktop\\Codeforces\\TeamOlympiad\\TeamOlympiad\\Program.cs",
+              "RelativeDocumentMoniker": "TeamOlympiad\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikey\\Desktop\\Codeforces\\TeamOlympiad\\TeamOlympiad\\Program.cs",
+              "RelativeToolTip": "TeamOlympiad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:35:22.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
