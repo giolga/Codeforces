@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\Cieve\Cieve\bin\Debug\Eratosthene_Sieve.exe.config
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\Cieve\Cieve\bin\Debug\Eratosthene_Sieve.exe
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\Cieve\Cieve\bin\Debug\Eratosthene_Sieve.pdb
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\Cieve\Cieve\obj\Debug\Eratosthene_Sieve.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\Cieve\Cieve\obj\Debug\Eratosthene_Sieve.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\Cieve\Cieve\obj\Debug\Eratosthene_Sieve.exe
+C:\Users\Mikey\Desktop\Codeforces\AlgorithmsC#\Cieve\Cieve\obj\Debug\Eratosthene_Sieve.pdb
