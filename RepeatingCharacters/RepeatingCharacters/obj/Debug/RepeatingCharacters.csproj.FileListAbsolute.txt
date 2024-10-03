@@ -1,0 +1,7 @@
+C:\Users\Mikey\source\repos\RepeatingCharacters\RepeatingCharacters\bin\Debug\RepeatingCharacters.exe.config
+C:\Users\Mikey\source\repos\RepeatingCharacters\RepeatingCharacters\bin\Debug\RepeatingCharacters.exe
+C:\Users\Mikey\source\repos\RepeatingCharacters\RepeatingCharacters\bin\Debug\RepeatingCharacters.pdb
+C:\Users\Mikey\source\repos\RepeatingCharacters\RepeatingCharacters\obj\Debug\RepeatingCharacters.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\RepeatingCharacters\RepeatingCharacters\obj\Debug\RepeatingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\RepeatingCharacters\RepeatingCharacters\obj\Debug\RepeatingCharacters.exe
+C:\Users\Mikey\source\repos\RepeatingCharacters\RepeatingCharacters\obj\Debug\RepeatingCharacters.pdb
