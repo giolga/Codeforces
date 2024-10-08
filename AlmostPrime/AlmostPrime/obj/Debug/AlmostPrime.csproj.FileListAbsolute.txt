@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\Codeforces\AlmostPrime\AlmostPrime\bin\Debug\AlmostPrime.exe.config
+C:\Users\GioLGA\Desktop\Codeforces\AlmostPrime\AlmostPrime\bin\Debug\AlmostPrime.exe
+C:\Users\GioLGA\Desktop\Codeforces\AlmostPrime\AlmostPrime\bin\Debug\AlmostPrime.pdb
+C:\Users\GioLGA\Desktop\Codeforces\AlmostPrime\AlmostPrime\obj\Debug\AlmostPrime.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\Codeforces\AlmostPrime\AlmostPrime\obj\Debug\AlmostPrime.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\Codeforces\AlmostPrime\AlmostPrime\obj\Debug\AlmostPrime.exe
+C:\Users\GioLGA\Desktop\Codeforces\AlmostPrime\AlmostPrime\obj\Debug\AlmostPrime.pdb
